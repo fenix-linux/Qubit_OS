@@ -1,3 +1,3 @@
-# qubit_os
+# Qubit OS
 
 The operating system of the future.
